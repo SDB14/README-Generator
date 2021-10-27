@@ -1,5 +1,5 @@
-# RMG
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# dgakfjsl
+
 
 * [Description](#description)
 * [Installation](#installation)
@@ -8,6 +8,12 @@
 * [License](#license)
 
 ## description
-GRMF
+aksdflasj
 ## installation
-TBD
+aksfals
+## usage
+skdflasjdf
+## credits
+skadfjls
+## license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
