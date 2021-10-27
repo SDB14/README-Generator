@@ -30,7 +30,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-
+## Table Of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
