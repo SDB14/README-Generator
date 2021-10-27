@@ -11,14 +11,14 @@
 ## Description
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 ## Installation
-Open with your integreated terminal
+Open in integrated terminal
 ## Usage
 Create a professional README file
 ## Contributing
-SDT and if you'd like to help, push code in feature branch for review.
+SDT
 ## Tests
-Open in integrated terminal
+open in IT
 ## Questions
 https://github.com/SDB14
 ## License
-No License Selected
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
