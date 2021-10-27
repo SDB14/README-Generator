@@ -46,6 +46,7 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
+`("./utils/READMEGen")`
 ## Contributing
 ${data.contributing}
 ## Tests
