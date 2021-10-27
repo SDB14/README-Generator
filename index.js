@@ -34,8 +34,18 @@ function init() {
 },
 {
     type:"input",
-    name:"credits",
-    message:"Who are your collaborators?"
+    name:"contributing",
+    message:"Who are your collaborators and guidelines?"
+},
+{
+    type:"input",
+    name:"tests",
+    message:"Test Instructions?"
+},
+{
+    type:"input",
+    name:"questions",
+    message:"Send Questions:"
 },
 
 // Other Questions Here
