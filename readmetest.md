@@ -1,6 +1,4 @@
-# ReadMe File Generator
-
- 
+# README File Generator
 
 ## Table of Contents
 
@@ -11,16 +9,16 @@
 * [License](#license)
 
 ## Description
-undefined
-## installation
-Click the link below
-## usage
+Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+## Installation
+Open with your integreated terminal
+## Usage
 Create a professional README file
-## contributing
-Reveiw and let us know what you think or suggest code in a feature branch for review.
-## tests
-Open link in the integrated terminal
-## questions
+## Contributing
+SDT and if you'd like to help, push code in feature branch for review.
+## Tests
+Open in integrated terminal
+## Questions
 https://github.com/SDB14
-## license
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License
+No License Selected

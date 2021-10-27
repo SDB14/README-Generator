@@ -20,7 +20,7 @@ function init() {
 {
     type:"input",
     name:"description",
-    message:"Describe your application"
+    message:"Description:"
 },
 {
     type:"input",
